@@ -1,0 +1,35 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "buffer": "^5.4.3",
+    "expo": "^39.0.4",
+    "expo-auth-session": "~2.0.0",
+    "expo-battery": "^3.0.0",
+    "expo-gl": "^9.1.1",
+    "expo-sensors": "~9.1.0",
+    "expo-status-bar": "~1.0.2",
+    "gl-react": "^4.0.1",
+    "gl-react-expo": "^4.0.1",
+    "memo": "^1.0.1",
+    "native-base": "^2.13.14",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-image-filter": "^0.1.2",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
+    "react-native-gl-image-filters": "^0.2.2",
+    "react-native-unimodules": "^0.7.0",
+    "react-native-web": "~0.13.12",
+    "uri-scheme": "^1.0.46"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0"
+  },
+  "private": true
+}
